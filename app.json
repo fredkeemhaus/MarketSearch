@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "마켓서치 - 중고나라,번개장터,당근마켓 등 중고 물품 검색을 한번에",
+    "slug": "MarketSearch",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#ffffff",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.fredooks.marketSearch",
+      "versionCode": 20200828
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
